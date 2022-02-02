@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dimitrovleonardo
+- 👀 I’m interested in Server's
+- 🌱 I’m currently learning Python
