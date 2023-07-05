@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @dimitrovleonardo
-- 👀 I’m interested in Server's and Web Development
 - 🌱 I’m currently learning Fullstack at Brainsters
